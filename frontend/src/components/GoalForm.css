@@ -1,0 +1,32 @@
+.goal-container {
+
+  width: 50%;
+  margin-top: 3rem;
+}
+
+.goal-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 1rem;
+  border: 1px solid #e6e6e6;
+  border-radius: 1rem;
+  padding: 4rem;
+}
+
+.goal-form input {
+  width: 80%;
+  height: 2rem;
+  padding: 10px;
+  border: 1px solid #e6e6e6;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  font-family: inherit;
+}
+
+.goal-form button {
+  height: 1.9rem;
+  font-family: inherit;
+  max-width: 50%;
+}
